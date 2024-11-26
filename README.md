@@ -94,7 +94,7 @@ used.
 
 
 #### Power Report:
-![Screenshot 2024-11-26 104715](https://github.com/user-attachments/assets/1320cd08-47d7-47de-b801-934491dfdf06)
+
 
 
 ![Screenshot 2024-11-11 114228](https://github.com/user-attachments/assets/d8eaa884-bc8a-4a6d-a455-1bbb79d496bb)
