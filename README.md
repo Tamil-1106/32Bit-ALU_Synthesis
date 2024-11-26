@@ -90,7 +90,7 @@ used.
 
 
 #### Area report:
-![Screenshot 2024-11-26 104715](https://github.com/user-attachments/assets/1eecb00e-22f3-4f0f-8f0a-5521c033dddc)
+![WhatsApp Image 2024-11-26 at 20 12 47_6460bf55](https://github.com/user-attachments/assets/a3810c7b-1c7a-4171-95c9-86e7446189f2)
 
 
 #### Power Report:
