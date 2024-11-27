@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-26 at 20 12 47_6460bf55](https://github.com/user-attachments/assets/e933442a-91f3-4962-b319-c9888f1ab480)# EXP 5: 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports.
+# EXP 5: 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports.
 
 ## Aim:
 
